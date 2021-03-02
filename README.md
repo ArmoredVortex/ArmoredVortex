@@ -12,6 +12,7 @@ let about = {
     'Git',
     'GitHub',
     'Unity',
+    'Arduino',
     'Learning more stuff also'
     ],
   'pronouns' : 'he/him'  
