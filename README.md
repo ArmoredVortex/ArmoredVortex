@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Rachit !
 ![Age](https://img.shields.io/badge/Age-15-blue)
-![location](https://img.shields.io/badge/I%20Live%20in-India-orange)
 ```javascript
 let about = {
   'name' : 'Rachit Kumar Pandey',
@@ -17,7 +16,7 @@ let about = {
     ],
   'pronouns' : 'he/him'  
 ```
-- 📫 How to reach me: Discord = ArmoredVortex#8513
+- 📫 How to reach me: <br>Discord = ArmoredVortex#8513 <br> Reddit = u/ArmoredVortex06
 - 😄 Pronouns: he/him
 ### Stats
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArmoredVortex&count_private=true&show_icons=true&theme=midnight-purple" />
