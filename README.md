@@ -20,7 +20,7 @@ let about = {
 - 😄 Pronouns: he/him
 ### Stats
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArmoredVortex&count_private=true&show_icons=true&theme=midnight-purple" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmoredVortex&theme=midnight-purple&langs_count=6" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmoredVortex&theme=midnight-purple" />
   
 
 ![Profile views](https://gpvc.arturio.dev/armoredvortex) 
