@@ -12,7 +12,7 @@ let about = {
     'GitHub',
     'Unity',
     'Arduino',
-    'Learning more stuff also'
+    'Learning more stuff too'
     ],
   'pronouns' : 'he/him'  
 ```
