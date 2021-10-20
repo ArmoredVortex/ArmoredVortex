@@ -16,7 +16,7 @@ let about = {
     ],
   'pronouns' : 'he/him'  
 ```
-- 📫 How to reach me: <br>Discord = ArmoredVortex#8407 <br> Reddit = u/ArmoredVortex06 <br> Twitter = @ArmoredVortex
+- 📫 How to reach me: <br><img src="https://discord.c99.nl/widget/theme-3/590133197430456330.png">
 - 😄 Pronouns: he/him
 ### Stats
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArmoredVortex&count_private=true&show_icons=true&theme=midnight-purple" />
