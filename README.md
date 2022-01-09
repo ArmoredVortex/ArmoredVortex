@@ -1,17 +1,14 @@
 ### Hi there 👋, I'm Rachit !
-![Age](https://img.shields.io/badge/Age-15-blue)
+![Age](https://img.shields.io/badge/Age-16-blue)
 ```javascript
 let about = {
   'name' : 'Rachit Kumar Pandey',
-  'age' : 15,
   'skills' : [
     'Javascript',
     'Python',
     'NodeJS',
     'Git',
     'GitHub',
-    'Unity',
-    'Arduino',
     'Learning more stuff too'
     ],
   'pronouns' : 'he/him'  
