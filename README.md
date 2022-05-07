@@ -1,26 +1,19 @@
-### Hi there 👋, I'm Rachit !
-![Age](https://img.shields.io/badge/Age-16-blue)
-```javascript
-let about = {
-  'name' : 'Rachit Kumar Pandey',
-  'skills' : [
-    'Javascript',
-    'Python',
-    'NodeJS',
-    'Git',
-    'GitHub',
-    'Learning more stuff too'
-    ],
-  'pronouns' : 'he/him'  
-```
-- 📫 How to reach me: <br><img src="https://discord.c99.nl/widget/theme-3/590133197430456330.png">
-- 😄 Pronouns: he/him
-### Stats
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArmoredVortex&count_private=true&show_icons=true&theme=nord&border_color=000000" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmoredVortex&theme=nord&layout=compact&border_color=000000" />
-  
+<p align="center">
+  <br>
+  <samp>
+    Hi There! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://armoredvortex.github.io">Rachit</a></b>.
+    <br>I'm a High School student from India<br>
+</samp>
+</p>
+<hr>
+<div align="center">
+	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArmoredVortex&count_private=true&show_icons=true&theme=nord&border_color=000000" />
+	<br>
+	<br>
+	<img src="https://gpvc.arturio.dev/armoredvortex">
+</div>
 
-![Profile views](https://gpvc.arturio.dev/armoredvortex) 
+
 <!--
 **ArmoredVortex/ArmoredVortex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
