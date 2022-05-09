@@ -1,9 +1,10 @@
 <p align="center">
-  <br>
-  <samp>
-    Hi There! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://armoredvortex.github.io">Rachit</a></b>.
-    <br>I'm a High School student from India<br>
-</samp>
+	<img src="https://64.media.tumblr.com/tumblr_ma7ytprFFC1rfjowdo1_500.gif" height="150px">
+	<br>
+	<samp>
+		Hi There! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://armoredvortex.github.io">Rachit</a></b>.
+		<br>I'm a High School student from India<br>
+	</samp>
 </p>
 
 <div align="center">
