@@ -29,9 +29,6 @@
 	<a target="_blank" href="https://reddit.com/u/armoredvortex06"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 	<a target="_blank" href="https://twitter.com/ArmoredVortex"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
-<div align="center">
-	<img src="https://gpvc.arturio.dev/armoredvortex">
-</div>
 
 
 <!--
