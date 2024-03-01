@@ -25,7 +25,7 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArmoredVortex&count_private=true&show_icons=true&theme=nord&border_color=000000" />
 </div>
 <div align="center">
-	<a target="_blank" href="https://discordhub.com/profile/590133197430456330"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+	<a target="_blank" href="https://discord.com/users/armoredvortex"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 	<a target="_blank" href="https://reddit.com/u/armoredvortex06"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
 	<a target="_blank" href="https://twitter.com/ArmoredVortex"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
