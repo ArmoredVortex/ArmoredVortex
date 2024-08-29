@@ -3,7 +3,7 @@
 	<br>
 	<samp>
 		Hi There! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://armoredvortex.github.io">Rachit</a></b>.
-		<br>I'm a High School student from India<br>
+		<br>Freshman at IIT(ISM)<br>
 	</samp>
 </p>
 
