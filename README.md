@@ -1,8 +1,7 @@
 <samp>
 Hi There! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://armoredvortex.is-a.dev">Rachit</a></b>.
-<br>Sophomore at IIT(ISM)<br><br>
-
-Interested in Computer Science and Cybersecurity.
+<br><br>
+          
 <pre>
           ,
          _o_
